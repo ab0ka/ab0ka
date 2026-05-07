@@ -13,11 +13,11 @@
 I like turning ideas into working products — computer vision, NLP, full-stack AI apps.
 From model to API to mobile. Mostly self-taught on the things that matter.
 
-</div>
-
 ---
 
 Currently going deeper into DL and MLOps, exploring data analytics on the side.
 Open to internships and interesting projects.
 
 📍 Astana, Kazakhstan
+
+</div>
