@@ -1,8 +1,8 @@
 <div align="center">
 
-# hey, I'm Abzal 👾
+# hey, I'm Abzal
 
-**ML Engineer in progress · Football data nerd · Builder**
+**ML engineer in progress · building things that actually work**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org)
@@ -17,28 +17,7 @@ From model to API to mobile. Mostly self-taught on the things that matter.
 
 ---
 
-## things I've built
-
-⚽ **[ScoutMetric](https://github.com/ab0ka/ScoutMetric)** — AI scouting platform for football clubs. Match prediction, player analysis, Gemini chat agent, mobile app. Built everything solo.
-
-👁️ **[YOLO Blind Navigation](https://github.com/ab0ka/YOLO-Blind-Navigation)** — real-time obstacle detection for visually impaired users. YOLOv8 + audio feedback.
-
-🔤 **[KazMorph](https://github.com/ab0ka/KazMorph)** — morphological analyzer for Kazakh language. NLP meets low-resource linguistics.
-
-🤝 **[InVision U](https://github.com/ab0ka/InVisionU)** — team project. LLM-based university applicant evaluator. I designed the system architecture.
-
----
-
-## currently
-
-- 🔥 going deeper into DL and MLOps
-- 📊 exploring data analytics on the side
-- 👀 open to internships and cool projects
-
----
-
-<div align="center">
+currently going deeper into DL and MLOps, exploring data analytics on the side.
+open to internships and interesting projects.
 
 📍 Astana, Kazakhstan
-
-</div>
