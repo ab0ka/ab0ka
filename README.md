@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey, I'm Abzal
+# Hey, I'm Abzal
 
 **ML engineer in progress · building things that actually work**
 
@@ -17,7 +17,7 @@ From model to API to mobile. Mostly self-taught on the things that matter.
 
 ---
 
-currently going deeper into DL and MLOps, exploring data analytics on the side.
-open to internships and interesting projects.
+Currently going deeper into DL and MLOps, exploring data analytics on the side.
+Open to internships and interesting projects.
 
 📍 Astana, Kazakhstan
