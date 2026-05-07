@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Abzal
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Abzal;ML+engineer+in+progress;Computer+Vision+%C2%B7+NLP+%C2%B7+AI)](https://git.io/typing-svg)
 
 **ML engineer in progress · building things that actually work**
 
@@ -19,5 +19,10 @@ Currently going deeper into DL and MLOps, exploring data analytics on the side.
 Open to internships and interesting projects.
 
 📍 Astana, Kazakhstan
+
+---
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/твой_username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/твой_username)
 
 </div>
