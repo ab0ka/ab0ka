@@ -1,28 +1,44 @@
-# Abzal Sabit · ab0ka
+<div align="center">
 
-AI & ML student at Eurasian National University, Astana.
-I build end-to-end ML products — from model training to deployed APIs and mobile apps.
-Also into data analytics: I enjoy finding patterns in data and turning them into insights.
+# hey, I'm Abzal 👾
 
-## Projects
+**ML Engineer in progress · Football data nerd · Builder**
 
-| Project | What it does | Stack |
-|---|---|---|
-| [ScoutMetric](https://github.com/ab0ka/ScoutMetric) | AI football scouting platform | Python · Flask · React Native · Gemini |
-| [InVision U](https://github.com/ab0ka/InVisionU) | Team project · LLM-based applicant evaluator — I designed the system architecture | Python · LLM · Flask |
-| [YOLO Blind Navigation](https://github.com/ab0ka/YOLO-Blind-Navigation) | Real-time navigation for visually impaired | YOLOv8 · Python · CV |
-| [KazMorph](https://github.com/ab0ka/KazMorph) | Kazakh morphological analyzer | Python · NLP |
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)](https://reactnative.dev)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 
-## Stack
+I like turning ideas into working products — computer vision, NLP, full-stack AI apps.
+From model to API to mobile. Mostly self-taught on the things that matter.
 
-`Python` `PyTorch` `scikit-learn` `Flask` `React Native` `YOLOv8` `SQL` `pandas`
-
-## Currently
-
-- 2nd year student · state grant · GPA 3.32
-- Learning deeper DL and MLOps
-- Open to ML internships and data analytics roles
+</div>
 
 ---
 
-📍 Astana, Kazakhstan · [GitHub](https://github.com/ab0ka)
+## things I've built
+
+⚽ **[ScoutMetric](https://github.com/ab0ka/ScoutMetric)** — AI scouting platform for football clubs. Match prediction, player analysis, Gemini chat agent, mobile app. Built everything solo.
+
+👁️ **[YOLO Blind Navigation](https://github.com/ab0ka/YOLO-Blind-Navigation)** — real-time obstacle detection for visually impaired users. YOLOv8 + audio feedback.
+
+🔤 **[KazMorph](https://github.com/ab0ka/KazMorph)** — morphological analyzer for Kazakh language. NLP meets low-resource linguistics.
+
+🤝 **[InVision U](https://github.com/ab0ka/InVisionU)** — team project. LLM-based university applicant evaluator. I designed the system architecture.
+
+---
+
+## currently
+
+- 🔥 going deeper into DL and MLOps
+- 📊 exploring data analytics on the side
+- 👀 open to internships and cool projects
+
+---
+
+<div align="center">
+
+📍 Astana, Kazakhstan
+
+</div>
