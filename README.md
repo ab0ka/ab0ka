@@ -9,7 +9,7 @@ Also into data analytics: I enjoy finding patterns in data and turning them into
 | Project | What it does | Stack |
 |---|---|---|
 | [ScoutMetric](https://github.com/ab0ka/ScoutMetric) | AI football scouting platform | Python · Flask · React Native · Gemini |
-| [InVision U](https://github.com/ab0ka/InVisionU) | LLM-based university applicant evaluator | Python · LLM · Flask |
+| [InVision U](https://github.com/ab0ka/InVisionU) | Team project · LLM-based applicant evaluator — I designed the system architecture | Python · LLM · Flask |
 | [YOLO Blind Navigation](https://github.com/ab0ka/YOLO-Blind-Navigation) | Real-time navigation for visually impaired | YOLOv8 · Python · CV |
 | [KazMorph](https://github.com/ab0ka/KazMorph) | Kazakh morphological analyzer | Python · NLP |
 
